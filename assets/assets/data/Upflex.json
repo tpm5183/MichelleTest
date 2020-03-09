@@ -1,0 +1,91 @@
+{
+    "projectTitle":"Upflex",
+    "projectYear":"2020",
+    "projectSubTitle":"Concept web design",
+    "projectImage":"assets/images/Upflex.png",
+    "projectTopBanner":"assets/images/UFsection1.png",
+    "projectTheme":{
+        "red":52,
+        "green":109,
+        "blue":65,
+        "opacity":1
+    },
+    "sections":[
+        {
+            "type": "image",
+            "value": "assets/images/UFsection2.png"
+        },
+        {
+            "type": "image",
+            "value": "assets/images/UFsection3.png"
+        },
+        {
+            "type": "image",
+            "value": "assets/images/UFsection4.png"
+        },
+        {
+            "type": "image",
+            "value": "assets/images/UFsection5.png"
+        },
+        {
+            "type": "image",
+            "value": "assets/images/UFsection6.png"
+        },
+        {
+            "type": "image",
+            "value": "assets/images/UFsection7.png"
+        },
+        {
+            "type": "image",
+            "value": "assets/images/UFsection8.png"
+        },
+        {
+            "type": "image",
+            "value": "assets/images/UFsection9.png"
+        },
+        {
+            "type": "image",
+            "value": "assets/images/UFsection10.png"
+        },
+        {
+            "type": "image",
+            "value": "assets/images/UFsection11.png"
+        },
+        {
+            "type":"optionalImage",
+            "button1":"Existing",
+            "button2":"New",
+            "button1Image":"assets/images/UFLoginExisting.png",
+            "button2Image":"assets/images/UFLoginNew.png"
+        },
+        {
+            "type":"optionalImage",
+            "button1":"Existing",
+            "button2":"New",
+            "button1Image":"assets/images/UFBookingExisting.png",
+            "button2Image":"assets/images/UFBookingNew.png"
+        },
+        {
+            "type": "image",
+            "value": "assets/images/UFsection12.png"
+        },
+        {
+            "type": "image",
+            "value": "assets/images/UFsection13.png"
+        },
+        {
+            "type": "image",
+            "value": "assets/images/UFsection15.png"
+        },
+        {
+            "type": "gif",
+            "value": "assets/images/UFfullProtoType.gif",
+            "width":694.0,
+            "height": 1388.0
+        },
+        {
+            "type": "image",
+            "value": "assets/images/UFsection16.png"
+        }
+    ]
+}

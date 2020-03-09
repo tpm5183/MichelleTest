@@ -1,0 +1,70 @@
+{
+    "projectTitle":"Giftwise",
+    "projectYear":"2020",
+    "projectSubTitle":"Concept web design",
+    "projectImage":"assets/images/giftWise.png",
+    "projectTopBanner":"assets/images/GWsection1.png",
+    "projectTheme":{
+        "red":92,
+        "green":130,
+        "blue":142,
+        "opacity":1
+    },
+    "sections":[
+        {
+            "type":"image",
+            "value":"assets/images/GWsection2.png"
+        },
+        {
+            "type":"image",
+            "value":"assets/images/GWsection3.png"
+        },
+        {
+            "type":"image",
+            "value":"assets/images/GWsection4.png"
+        },
+        {
+            "type":"image",
+            "value":"assets/images/GWsection5.png"
+        },
+        {
+            "type":"image",
+            "value":"assets/images/GWsection6.png"
+        },
+        {
+            "type":"image",
+            "value":"assets/images/GWsection7.png"
+        },
+        {
+            "type":"image",
+            "value":"assets/images/GWsection8.png"
+        },
+        {
+            "type":"image",
+            "value":"assets/images/GWsection9.png"
+        },
+        {
+            "type":"image",
+            "value":"assets/images/GWsection10.png"
+        },
+        {
+            "type":"image",
+            "value":"assets/images/GWsection11.png"
+        },
+        {
+            "type":"image",
+            "value":"assets/images/GWsection12.png"
+        },
+        {
+            "type":"image",
+            "value":"assets/images/GWsection13.png"
+        },
+        {
+            "type": "gif",
+            "value": "assets/images/GWprojectDemo.gif",
+            "width":1280,
+            "height": 720
+        }
+        
+    ]
+}

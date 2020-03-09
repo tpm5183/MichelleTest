@@ -1,0 +1,82 @@
+{
+    "projectTitle": "Megabus",
+    "projectYear": "2019",
+    "projectSubTitle": "A Responsive Mobile/Web Design",
+    "projectImage": "assets/images/megaBus.png",
+    "projectTopBanner": "assets/images/MBsection0.png",
+    "projectTheme": {
+        "red": 246,
+        "green": 189,
+        "blue": 58,
+        "opacity": 1
+    },
+    "sections": [
+        {
+            "type": "image",
+            "value": "assets/images/MBsection1.png"
+        },
+        {
+            "type": "image",
+            "value": "assets/images/MBsection2.png"
+        },
+        {
+            "type": "image",
+            "value": "assets/images/MBsection3.png"
+        },
+        {
+            "type": "image",
+            "value": "assets/images/MBsection4.png"
+        },
+        {
+            "type": "image",
+            "value": "assets/images/MBsection5.png"
+        },
+        {
+            "type": "image",
+            "value": "assets/images/MBsection6.png"
+        },
+        {
+            "type": "image",
+            "value": "assets/images/MBsection7.png"
+        },
+        {
+            "type": "image",
+            "value": "assets/images/MBsection8.png"
+        },
+        {
+            "type": "image",
+            "value": "assets/images/MBsection9.png"
+        },
+        {
+            "type": "image",
+            "value": "assets/images/MBsection10.png"
+        },
+        {
+            "type": "image",
+            "value": "assets/images/MBsection11.png"
+        },
+        {
+            "type": "image",
+            "value": "assets/images/MBsection12.png"
+        },
+        {
+            "type": "image",
+            "value": "assets/images/MBsection13.png"
+        },
+        {
+            "type":"row",
+            "value":[
+                {
+                    "type": "gif",
+                    "value": "assets/images/megaBusDemo.gif",
+                    "width":694.0,
+                    "height": 1388.0
+                },
+                {
+                    "type": "image",
+                    "value": "assets/images/MBsection14.png"
+                }
+            ]
+        }
+    ]
+}
